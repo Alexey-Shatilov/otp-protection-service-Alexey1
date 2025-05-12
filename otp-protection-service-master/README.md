@@ -52,8 +52,8 @@ CREATE DATABASE otp_service;
 Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/amasovich/otp-protection-service.git
-cd otp-protection-service
+git clone https://github.com/Alexey-Shatilov/otp-protection-service-Alexey.git
+cd otp-protection-service-Alexey
 ```
 
 Заполните конфигурационные файлы в `src/main/resources`:
@@ -196,8 +196,8 @@ curl -X DELETE http://localhost:8080/admin/users/2 \
 
 ## 🖋 Автор
 
-**Березняк Владимир**\
+**Шатилов Алексей**\
 Проект реализован в рамках учебного задания МИФИ\
-GitHub: [github.com/amasovich](https://github.com/amasovich)\
-Telegram: [@amasovich](https://t.me/amasovich)
+GitHub: [github.com/Alexey-Shatilov](https://github.com/amasovich)\
+Telegram: [@aTorgrimm1](https://t.me/amasovich)
 
